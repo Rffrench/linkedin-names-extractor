@@ -14,6 +14,6 @@ HOW TO USE IT:
 
 
 In case you are lost where to search for People in LinkedIn, take a look at this image:
-![Alt text](./step1.png?raw=true "Title")
+![Alt text](./example.png?raw=true "Title")
 
 
