@@ -12,7 +12,8 @@ HOW TO USE IT:
 7. Run the script as `python3 linkedin.html > employees.txt` to save the extracted names
 8. Now, you can generate a list of emails if you want
 
+
+In case you are lost where to search for People in LinkedIn, take a look at this image:
 ![Alt text](./step1.png?raw=true "Title")
-![Alt text](./step2.png?raw=true "Title")
 
 
