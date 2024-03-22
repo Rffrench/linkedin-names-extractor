@@ -4,7 +4,7 @@
 
 HOW TO USE IT:
 1. Log in to Linekdin with your account
-2. Go to https://www.linkedin.com/company/COMPANY-NAME-URL-HERE/people/ OR just search for the Company in the search bar and go to People. 
+2. Search for the Company in the search bar and go to People.
 3. Find the "People you may know" section here.
 4. Scroll Down to start seeing people that work for that company
 5. Keep scrolling down until there are no more people LinkedIn can find
