@@ -10,7 +10,7 @@ HOW TO USE IT:
 4. Scroll Down to start seeing people that work for that company
 5. Keep scrolling down until there are no more people LinkedIn can find
 6. Ctrl + S to save the page as HTML. Name it "linkedin.html"
-7. Run the script as "python3 linkedin.html > employees.txt" to save the extracted names
+7. Run the script as "python3 extract-linkedin-names.py > employees.txt" to save the extracted names
 8. Now, you can generate a list of emails if you want
 """
 
